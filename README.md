@@ -3,7 +3,7 @@
 
 [![Tablar](https://img.youtube.com/vi/ka26mSdmvIQ/0.jpg)](https://www.youtube.com/watch?v=ka26mSdmvIQ)
 
-This open-source demo project showcases the seamless integration of the Laravel PHP framework with the popular [Laravel Tablar](https://github.com/takielias/tablar)
+This open-source demo project showcases the seamless integration of the Laravel PHP framework with the [Laravel Tablar](https://github.com/takielias/tablar)
 and [Tablar Kit](https://github.com/takielias/tablar-kit). It provides a comprehensive example of how to build modern web applications
 with a user-friendly admin interface using Laravel, Tablar, and Tablar Kit.
 
