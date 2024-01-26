@@ -42,5 +42,11 @@ npm i
 npm run dev
 ```
 
+## For build
+
+```bash
+npm run build
+```
+
 ### Done
 
