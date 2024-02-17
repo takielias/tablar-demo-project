@@ -25,14 +25,10 @@ composer install
 
 ## Run the Migrate Command
 
+`setup db before executing the following command`
+
 ```bash
 php artisan migrate --seed
-```
-
-## Run the Migrate Command
-
-```bash
-php artisan migrate
 ```
 
 ## Run the NPM Command
