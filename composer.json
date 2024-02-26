@@ -10,7 +10,7 @@
         "laravel/framework": "^10.10",
         "laravel/sanctum": "^3.3",
         "laravel/tinker": "^2.8",
-        "takielias/tablar": "^4.9",
+        "takielias/tablar": "^4.10",
         "takielias/tablar-kit": "^0.6.0"
     },
     "require-dev": {
