@@ -10,8 +10,8 @@
         "laravel/framework": "^10.10",
         "laravel/sanctum": "^3.3",
         "laravel/tinker": "^2.8",
-        "takielias/tablar": "^4.10",
-        "takielias/tablar-kit": "^0.7.0"
+        "takielias/tablar": "^10",
+        "takielias/tablar-kit": "^10"
     },
     "require-dev": {
         "fakerphp/faker": "^1.9.1",
